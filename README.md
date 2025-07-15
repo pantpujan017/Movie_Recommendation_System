@@ -3,7 +3,7 @@
 Welcome to my **AI-powered Movie Recommendation System** built with **Streamlit**!  
 Just enter your favorite movie, and the system will suggest similar titles instantly.
 
-![App Preview](./app_preview.png)
+![App Preview](./movie.png)
 
 ---
 
